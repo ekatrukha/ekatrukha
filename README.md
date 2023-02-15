@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Repositories under this personal account contain mostly new/experimental projects.
+ 
+Completed/released projects now live at https://github.com/UU-cellbiology
+
 <!--
 **ekatrukha/ekatrukha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
